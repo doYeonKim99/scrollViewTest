@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollViewTest</string>
+    <string name="but_01">미림여자정보과학고</string>
+    <string name="but_02">광신정보산업고</string>
+    <string name="but_03">삼성중학교</string>
+    <string name="but_04">신우초등학교</string>
+    <string name="but_05">서울대학교</string>
+
+</resources>
