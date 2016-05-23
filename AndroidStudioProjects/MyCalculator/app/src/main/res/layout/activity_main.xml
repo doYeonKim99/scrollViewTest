@@ -50,7 +50,7 @@
         android:layout_height="wrap_content"
         android:text="@string/str_divide"
         android:id="@+id/but_divide"
-        android:layout_above="@+id/bur_multiply"
+        android:layout_above="@+id/but_multiply"
         android:layout_alignRight="@+id/but_minus"
         android:layout_alignEnd="@+id/but_minus"
         android:textSize="20sp" />
@@ -59,7 +59,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/str_multiply"
-        android:id="@+id/bur_multiply"
+        android:id="@+id/but_multiply"
         android:layout_marginBottom="76dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
@@ -70,11 +70,11 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/str_result"
-        android:id="@+id/textView"
+        android:id="@+id/Text_result"
         android:textSize="30sp"
         android:textColor="#ff0000"
         android:layout_alignParentBottom="true"
-        android:layout_alignRight="@+id/bur_multiply"
-        android:layout_alignEnd="@+id/bur_multiply" />
+        android:layout_alignRight="@+id/but_multiply"
+        android:layout_alignEnd="@+id/but_multiply" />
 
 </RelativeLayout>
