@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SlidingDrawerTest</string>
+    <string name="text_out">여기는 서랍 밖의 컨텐츠입니다.</string>
+    <string name="text_in">여기는 서랍 안의 컨텐츠입니다.</string>
+    <string name="but_text">서랍 손잡이</string>
+</resources>
